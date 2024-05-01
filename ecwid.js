@@ -1,6 +1,6 @@
 var Bearer_token = 'QmVhcmVyIHB1YmxpY196dVVnRXpSMnQ3YWZGTGJ6NXprcEp3Wk53NW5mc3k5UQ=='
 var ALERT_TITLE = "Cart Info";
-var ALERT_BUTTON_TEXT = "Ok--";
+var ALERT_BUTTON_TEXT = "Ok--"; 
 var listProducts = '';
 var productslist = '';
 var productL = [];
